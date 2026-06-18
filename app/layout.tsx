@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'Rifa CRF | Concorra a uma Honda CRF',
   description:
-    'Garanta seus bilhetes e concorra a uma Honda CRF zero quilômetro. Acompanhe seus bilhetes flutuando no aquário 3D e veja em tempo real quantos já foram vendidos.',
+    'Concorra a uma Honda CRF. 400 números a R$ 50 — escolha os seus, pague no PIX e participe do sorteio pela Loteria Federal.',
   generator: 'v0.app',
   icons: {
     icon: [
